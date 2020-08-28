@@ -8,5 +8,5 @@ My app also recognises sentences, though not too excellently yet. It capitalises
 
 You can find the executable JAR file at `out/artifacts/MorseCodeTranslator_jar`. Please run it and give me feedback. Thanks.
 
-PS: Don't forget to star my code😊
+**PS:** Don't forget to star my code😊
 
